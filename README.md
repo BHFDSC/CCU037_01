@@ -1,8 +1,4 @@
-# BHF Data Science Centre research project template
-
-This is a template repository used by the BHF Data Science Centre team when creating new repositories for multi-nation CVD-COVID-UK/COVID-IMPACT projects.
-
-# Project name
+# Approach (TBC)
 
 ## Project description
 
@@ -13,17 +9,14 @@ Description will be added here.
 
 ## Contents
 
-* [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCUXXX_XX/tree/main/england)
-* [View the analysis code and phenotypes used in the Safe Haven](https://github.com/BHFDSC/CCUXXX_XX/tree/main/scotland)
-* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCUXXX_XX/tree/main/wales)
-* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCUXXX_XX/tree/main/outside)
-* [View the final ouput of our analysis](https://github.com/BHFDSC/CCUXXX_XXX/tree/main/outside/output)
+* [View the analysis code and phenotypes used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU037_01/tree/main/england)
+* [View the analysis code and phenotypes used in the SAIL Databank](https://github.com/BHFDSC/CCU037_01/tree/main/wales)
+* [View the code used outside of the environments to prepare tables and figures for publication](https://github.com/BHFDSC/CCU037_01/tree/main/outside)
+* [View the final ouput of our analysis](https://github.com/BHFDSC/CCU037_01/tree/main/outside/output)
 
 ## Project approval
 
-This is a sub-project of [project CCUXXX](https://github.com/BHFDSC/CCUXXX) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCUXXX_XX).
-
-This project has been approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (project: CCUXXX_XX).
+This is a sub-project of [project CCU037](https://github.com/BHFDSC/CCU037) approved by the CVD-COVID-UK / COVID-IMPACT Approvals & Oversight Board (sub-project: CCU037_01).
 
 ## License
 
