@@ -15,16 +15,14 @@ spark.sql(f""" CREATE OR REPLACE GLOBAL TEMP VIEW {project_prefix}_alcohol_hasbl
 ("228315001","Binge drinker (finding)","SNOMED","alcohol_hasbled"),
 ("228316000","Alcoholic binges exceeding sensible amounts (finding)","SNOMED","alcohol_hasbled"),
 ("228317009","Alcoholic binges exceeding safe amounts (finding)","SNOMED","alcohol_hasbled")
-AS {project_prefix}_alcohol_hasbled_codelist (code, term, system, codelist)
-""")
+AS {project_prefix}_alcohol_hasbled_codelist (code, term, system, codelist)""")
 
 #bmi 
 spark.sql(f""" CREATE OR REPLACE GLOBAL TEMP VIEW {project_prefix}_bmi_codelist AS SELECT * FROM VALUES
 ("301331008","Finding of body mass index (finding)","SNOMED","bmi"),
 ("60621009","Body mass index (observable entity)","SNOMED","bmi"),
 ("846931000000101","Baseline body mass index (observable entity)","SNOMED","bmi")
-AS {project_prefix}_bmi_codelist (code, term, system, codelist)
-""")
+AS {project_prefix}_bmi_codelist (code, term, system, codelist)""")
 
 #smoking (ever smokers)
 spark.sql(f""" CREATE OR REPLACE GLOBAL TEMP VIEW {project_prefix}_smoking_codelist AS SELECT * FROM VALUES
@@ -159,8 +157,7 @@ spark.sql(f""" CREATE OR REPLACE GLOBAL TEMP VIEW {project_prefix}_smoking_codel
 ("360890004","Intolerant ex-smoker (finding)","SNOMED","smoking"),
 ("48031000119106","Ex-smoker for more than 1 year (finding)","SNOMED","smoking"),
 ("8517006","Ex-smoker (finding)","SNOMED","smoking")
-AS {project_prefix}_smoking_codelist (code, term, system, codelist)
-""")
+AS {project_prefix}_smoking_codelist (code, term, system, codelist)""")
 
 #SMOKING (NO, EX, CURRENT)
 spark.sql(f""" CREATE OR REPLACE GLOBAL TEMP VIEW {project_prefix}_smokingstatus_SNOMED  AS  
