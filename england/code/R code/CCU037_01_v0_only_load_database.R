@@ -4,8 +4,6 @@ con <- DBI::dbConnect(odbc::odbc(),
                       timeout = 60,
                       PWD = rstudioapi::askForPassword("Databricks personal access token:"))
 
-#dapi178a33ca95dfe4f8828f435a4f903d8f
-
 # Load data from DataBricks ----------------------------------------------------
 library(dbplyr)
 library(dplyr)
