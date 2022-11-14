@@ -12,11 +12,6 @@ con <- DBI::dbConnect(odbc::odbc(),
                       timeout = 60,
                       PWD = rstudioapi::askForPassword("Databricks personal access token:"))
 
-# Transfer data from DataBricks ------------------------------------------------
-
-#token: dapiaaad81ef183618b7fad9512bd6124d23
-
-
 # Load data from DataBricks ----------------------------------------------------
 
 #'Load _population_geography table (in two steps cause there is to much data to load in one go)
