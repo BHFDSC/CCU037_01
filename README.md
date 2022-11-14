@@ -1,4 +1,4 @@
-# Digital ethnicity data in population-wide electronic health records in England: a description of completeness, coverage, and granularity
+# Digital ethnicity data in population-wide electronic health records in England: a description of completeness, coverage, and granularity of diversity
 
 ## Project description
 
@@ -15,7 +15,7 @@ The publicly available algorithm for improving information on ethnicity can be u
 This work will be based on anonymised health information that represents almost everyone currently living in England. By extending to Scotland, Wales and Northern Ireland in future, we hope that this work will help to make health equal and fair for everyone in the UK.
 
 ## How to cite this work
-> Citation goes here
+> Preprint available on medRxiv [here](https://doi.org/10.1101/2022.11.11.22282217)
 
 ## Contents
 
