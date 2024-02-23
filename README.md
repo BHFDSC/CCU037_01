@@ -1,4 +1,6 @@
-# Digital ethnicity data in population-wide electronic health records in England: a description of completeness, coverage, and granularity of diversity
+# Ethnicity data resource in population-wide health records: completeness, coverage and granularity of diversity
+
+**Marta Pineda-Moncusí, Freya Allery, Antonella Delmestri, Thomas Bolton, John Nolan, Johan H. Thygesen, Alex Handy, Amitava Banerjee, Spiros Denaxas, Christopher Tomlinson, Alastair K. Denniston, Cathie Sudlow, Ashley Akbari, Angela Wood, Gary S. Collins, Irene Petersen, Laura C. Coates, Kamlesh Khunti, Daniel Prieto-Alhambra & Sara Khalid, on behalf of the CVD-COVID-UK/COVID-IMPACT Consortium**
 
 ## Project description
 
@@ -16,12 +18,12 @@ The publicly available algorithm for improving information on ethnicity can be u
 This work will be based on anonymised health information that represents almost everyone currently living in England. By extending to Scotland, Wales and Northern Ireland in future, we hope that this work will help to make health equal and fair for everyone in the UK.
 
 ## How to cite this work
-> Preprint available on medRxiv [here](https://doi.org/10.1101/2022.11.11.22282217)
+> Pineda-Moncusí, M., Allery, F., Delmestri, A. et al. Ethnicity data resource in population-wide health records: completeness, coverage and granularity of diversity. Sci Data 11, 221 (2024). https://doi.org/10.1038/s41597-024-02958-1
 
 ## Contents
 
-* [View the analysis code used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU037_01/tree/main/england/code)
-* [View the phenotyping algorithms and codelists used in NHS Digital's TRE for England](https://github.com/BHFDSC/CCU037_01/tree/main/england/phenotypes)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU037_01/tree/main/england/code)
+* [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU037_01/tree/main/england/phenotypes)
 
 ## Project approval
 
